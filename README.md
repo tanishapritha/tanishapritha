@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tanisha Pritha 👋</h1> 
 <p align="center">
-🌱 Mechanical Engineering Student | 🤖 Deep Learning Enthusiast | 💡 Hackathon Builder
+🌱 Mechanical Engineering Student | 🤖 Machine Learning Enthusiast | 💡 Hackathon Builder
 </p>
 
 ---
