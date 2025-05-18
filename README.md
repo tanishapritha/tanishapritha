@@ -38,11 +38,7 @@
 
 ---
 
-### 🏆 Achievements & Involvement
 
-- 💡 **Participated in Smart India Hackathon 2024** – Proposed the *Beach Suitability App* to assess recreational safety of Indian beaches using oceanic, weather, and water quality data.
-- ☁️ **Completed Google Cloud Challenge** – Gained hands-on experience with cloud computing and AI tools.
-- 🚀 **Technical Co-Head @ GCOEN MESA Club** – Organized and led drone-building workshop and student technical events.
 
 ---
 
