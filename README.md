@@ -33,7 +33,7 @@
 - 📈 [**Stock Price Predictor**](https://github.com/tanishapritha/stock-price-predictor)  
   Built an LSTM-based model to forecast stock trends using historical data and technical indicators. Includes visual trend analysis using Matplotlib.
 
-- 💬 [**WhatsApp Chat Analyzer**](https://github.com/tanishapritha/whatsapp-chat-analyzer)  
+- 💬 [**WhatsApp Chat Analyzer**](https://github.com/tanishapritha/whatsapp-chat-analyzer-with-sentiment-analysis)  
   Parsed `.txt` exports from WhatsApp using Python and Pandas to analyze user behavior. Created a Streamlit app for interactive data visualization.
 
 ---
