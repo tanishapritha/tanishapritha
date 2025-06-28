@@ -1,20 +1,20 @@
-<h1 align="center">Hi, I'm Tanisha Pritha 👋</h1> 
+<h1 align="center">Hi, I'm Tanisha Pritha </h1> 
 <p align="center">
-🌱 Mechanical Engineering Student | 🤖 Machine Learning Enthusiast | 💡 Hackathon Builder
+Mechanical Engineering Student | Machine Learning Enthusiast | Hackathon Builder
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 I'm a 3rd-year Mechanical Engineering student passionate about Artificial Intelligence & Machine Learning.
-- 🤖 I build smart solutions with Python, TensorFlow, and LSTM—merging code with real-world impact.
-- 💻 Currently exploring Deep Learning applications in agriculture, finance, and health tech.
-- 📈 I love analyzing data and visualizing trends using tools like Pandas, Matplotlib, and Streamlit.
+- I'm a 3rd-year Mechanical Engineering student passionate about Artificial Intelligence & Machine Learning.
+- I build smart solutions with Python, TensorFlow, and LSTM—merging code with real-world impact.
+- Currently exploring Deep Learning applications in agriculture, finance, and health tech.
+- I love analyzing data and visualizing trends using tools like Pandas, Matplotlib, and Streamlit.
 
 ---
 
-### 🔧 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -28,7 +28,7 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 - 📈 [**Stock Price Predictor**](https://github.com/tanishapritha/stock-price-predictor)  
   Built an LSTM-based model to forecast stock trends using historical data and technical indicators. Includes visual trend analysis using Matplotlib.
