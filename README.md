@@ -30,10 +30,10 @@ Mechanical Engineering Student | Machine Learning Enthusiast | Hackathon Builder
 
 ### Featured Projects
 
-- 📈 [**Stock Price Predictor**](https://github.com/tanishapritha/stock-price-predictor)  
+- [**Stock Price Predictor**](https://github.com/tanishapritha/stock-price-predictor)  
   Built an LSTM-based model to forecast stock trends using historical data and technical indicators. Includes visual trend analysis using Matplotlib.
 
-- 💬 [**WhatsApp Chat Analyzer**](https://github.com/tanishapritha/whatsapp-chat-analyzer-with-sentiment-analysis)  
+- [**WhatsApp Chat Analyzer**](https://github.com/tanishapritha/whatsapp-chat-analyzer-with-sentiment-analysis)  
   Parsed `.txt` exports from WhatsApp using Python and Pandas to analyze user behavior. Created a Streamlit app for interactive data visualization.
 
 ---
@@ -42,10 +42,10 @@ Mechanical Engineering Student | Machine Learning Enthusiast | Hackathon Builder
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanishapritha)
-- 📬 Email: tpritha1903@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/tanishapritha)
+- Email: tpritha1903@gmail.com
 
 ---
 
