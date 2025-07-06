@@ -9,7 +9,6 @@ Mechanical Engineering Student | Machine Learning Enthusiast | Hackathon Builder
 
 - I'm a 3rd-year Mechanical Engineering student passionate about Artificial Intelligence & Machine Learning.
 - I build smart solutions with Python, TensorFlow, and LSTM—merging code with real-world impact.
-- Currently exploring Deep Learning applications in agriculture, finance, and health tech.
 - I love analyzing data and visualizing trends using tools like Pandas, Matplotlib, and Streamlit.
 
 ---
@@ -28,23 +27,20 @@ Mechanical Engineering Student | Machine Learning Enthusiast | Hackathon Builder
 
 ---
 
-### Featured Projects
+### Projects
 
-- [**Stock Price Predictor**](https://github.com/tanishapritha/stock-price-predictor)  
-  Built an LSTM-based model to forecast stock trends using historical data and technical indicators. Includes visual trend analysis using Matplotlib.
+- [**Market Manipulation Detector**](https://github.com/tanishapritha/market-manipulation-detector)  
+  Detects suspicious behavior in stock prices using social media sentiment and market data. Implements Isolation Forest and shows insights via a Streamlit dashboard.
 
-- [**WhatsApp Chat Analyzer**](https://github.com/tanishapritha/whatsapp-chat-analyzer-with-sentiment-analysis)  
-  Parsed `.txt` exports from WhatsApp using Python and Pandas to analyze user behavior. Created a Streamlit app for interactive data visualization.
-
----
-
+- [**Cart Recovery App**](https://github.com/tanishapritha/cart-recovery-app)  
+  A JavaScript-based solution for recovering abandoned shopping carts. Aims to boost eCommerce conversions by tracking user behavior and sending recovery notifications.
 
 
 ---
 
 ### Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/tanishapritha)
+- LinkedIn: https://www.linkedin.com/in/tanishapritha
 - Email: tpritha1903@gmail.com
 
 ---
