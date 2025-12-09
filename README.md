@@ -1,62 +1,102 @@
-<h1 align="center">👋 Hi, I'm Tanisha Pritha</h1>  
+<h1 align="center">Tanisha Pritha</h1>
 <p align="center">
-Mechanical Engineering Student | Machine Learning & Deep Learning Enthusiast | Hackathon Builder
+AI Engineer · LLM Systems · Retrieval · Agentic Workflows
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanishapritha">LinkedIn</a> |
+  <a href="https://twitter.com/tpritha03">Twitter / X</a>
 </p>
 
 ---
 
-### 🧠 About Me  
-
-- I'm a 3rd-year Mechanical Engineering student passionate about **AI, Deep Learning, and Time Series Forecasting**.  
-- I love experimenting with **PyTorch, TensorFlow, and Scikit-learn**, building data-driven systems that turn raw information into insight.  
-- I explore **forecasting, RAG (Retrieval-Augmented Generation)**, and **AI-assisted learning tools** — blending creativity with data.  
-- Currently diving deep into **LSTM, ARIMA, Prophet**, and **Linear Regression** models for predictive analytics.
+## About Me
+I build practical AI systems with a focus on LLM internals, retrieval workflows, and agent architectures.  
+My work emphasizes minimalism, clarity, and debuggability—designing systems where every component is transparent and every failure mode can be understood.
 
 ---
 
-### ⚙️ Tech Stack & Tools  
+## Tech Stack
 
+### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</p>
+
+### AI / ML
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</p>
+
+### LLM Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-8A2BE2?style=for-the-badge"/>
+</p>
+
+### Frontend / Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+</p>
+
+### Infrastructure / Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55"/>
 </p>
 
 ---
 
-### 💡 Featured Projects  
+## AgentFlow Engine
+A lightweight agent workflow engine built from scratch, combining structured planning, memory, tool execution, and a fully transparent reasoning trace.  
+Designed as a clean alternative to heavy agent frameworks—focused on determinism rather than opaque chains.
 
-#### 🧾 Time Series & Forecasting  
-- [**Time Series Forecasting**](https://github.com/tanishapritha/time-series-forecasting)  
-  Predictive analysis using **LSTM, ARIMA, and Prophet models** to forecast real-world trends.  
-  Includes clean, documented **Jupyter notebooks** demonstrating **data preprocessing, model training**, and **evaluation**.
+Key concepts include:
+- Planning and task decomposition  
+- Short-term and persistent memory  
+- Structured tool invocation  
+- Reasoning trace visualization (frontend)
 
-#### 🤖 Deep Learning & NLP  
-- [**Chat with PDF (RAG-based)**](https://github.com/tanishapritha/chat-with-pdf)  
-  Retrieval-Augmented Generation app that lets users **interact with PDFs intelligently** using **embeddings, FAISS, and Gemini API**.  
-  Built with **FastAPI**, **LangChain**, and **sentence-transformers**.
-
-- [**StudyMate**](https://github.com/tanishapritha/study-mate)  
-  AI-powered Q&A assistant that helps students **generate contextual answers** and **summarize notes**.  
-  Integrates **transformers**, **semantic search**, and **prompt-based reasoning**.
-
-#### 📈 Machine Learning Experiments  
-- Linear & Multiple Regression notebooks demonstrating **trend analysis** and **feature importance visualization**.  
-- Experiments with **classification, anomaly detection**, and **data visualization pipelines** in Python.
+The system is evolving toward more reliable execution guarantees and grounded, context-aware planning.
 
 ---
 
-### 🌐 Let's Connect  
+## Local RAG (Chroma Edition)
+A compact, fully local retrieval pipeline designed to remain minimal and easy to extend.  
+Every component—chunking, embedding, indexing, and retrieval—is intentionally simple enough to inspect and reason about.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanishapritha)  
-- 📧 [tpritha1903@gmail.com](mailto:tpritha1903@gmail.com)  
-- 🧑‍💻 [GitHub](https://github.com/tanishapritha)
+Includes:
+- Semantic chunking  
+- Configurable embedding backends  
+- Chroma-based similarity search  
+- Clean retrieval interface  
+
+Built to avoid the complexity of oversized RAG stacks.
 
 ---
 
-⭐ **“Merging mechanics with machine learning — where equations meet intelligence.”**
+## Attention Mechanism → TinyGPT
+A ground-up reconstruction of transformer fundamentals aimed at building a minimal GPT-style model.
+
+Completed components:
+- Scaled dot-product attention (NumPy + PyTorch)  
+- Modular attention blocks with diagnostics for numerical stability  
+
+Next milestones:
+- Multi-head attention  
+- Feed-forward network  
+- LayerNorm  
+- Assembly of a TinyGPT architecture  
+
+This work strengthens my understanding of LLM behavior and model internals.
+
+---
+
+<p align="center">
+If you're working on LLM systems, agents, or retrieval—and value thoughtful engineering—I'd be happy to connect.
+</p>
