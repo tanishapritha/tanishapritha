@@ -1,6 +1,6 @@
 <h1 align="center">Tanisha Pritha</h1>
 <p align="center">
-AI Engineer · LLM Systems · Retrieval · Agentic Workflows
+AI / ML Engineer · GenAI & Data Science · Full-Stack AI Systems
 </p>
 
 <p align="center">
@@ -11,8 +11,21 @@ AI Engineer · LLM Systems · Retrieval · Agentic Workflows
 ---
 
 ## About Me
-I build practical AI systems with a focus on LLM internals, retrieval workflows, and agent architectures.  
-My work emphasizes minimalism, clarity, and debuggability—designing systems where every component is transparent and every failure mode can be understood.
+
+I build end-to-end AI systems that combine machine learning, data science, and modern LLM-based workflows.  
+My work focuses on taking models from **data → logic → deployment**, with an emphasis on clarity, reproducibility, and real-world usability.
+
+I enjoy working across the stack—from data analysis and predictive modeling to LLM-powered applications and APIs—while keeping systems simple enough to debug, measure, and improve.
+
+---
+
+## Core Focus Areas
+
+- Predictive modeling, forecasting, and experimentation  
+- LLM applications (RAG, semantic search, personalization)  
+- Social media & behavioral data analytics  
+- Full-stack AI systems (API + ML + frontend)  
+- Clean, production-oriented ML pipelines  
 
 ---
 
@@ -24,14 +37,14 @@ My work emphasizes minimalism, clarity, and debuggability—designing systems wh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
-### AI / ML
+### AI / ML & Data Science
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
 
-### LLM Stack
+### GenAI / LLM Stack
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
@@ -52,51 +65,46 @@ My work emphasizes minimalism, clarity, and debuggability—designing systems wh
 
 ---
 
-## AgentFlow Engine
-A lightweight agent workflow engine built from scratch, combining structured planning, memory, tool execution, and a fully transparent reasoning trace.  
-Designed as a clean alternative to heavy agent frameworks—focused on determinism rather than opaque chains.
+## Featured Projects
 
-Key concepts include:
-- Planning and task decomposition  
+### AgentFlow Engine
+A lightweight agent workflow system designed for **controlled execution, transparency, and debuggability**.
+
+Focus areas:
+- Task planning and decomposition  
 - Short-term and persistent memory  
-- Structured tool invocation  
-- Reasoning trace visualization (frontend)
+- Structured tool execution  
+- Frontend-based execution trace visualization  
 
-The system is evolving toward more reliable execution guarantees and grounded, context-aware planning.
+Built to explore reliable agent behavior without opaque abstractions.
 
 ---
 
-## Local RAG (Chroma Edition)
-A compact, fully local retrieval pipeline designed to remain minimal and easy to extend.  
-Every component—chunking, embedding, indexing, and retrieval—is intentionally simple enough to inspect and reason about.
+### Local RAG Pipeline (Chroma-Based)
+A compact, fully local retrieval system designed for **semantic search and personalization use cases**.
 
 Includes:
 - Semantic chunking  
-- Configurable embedding backends  
-- Chroma-based similarity search  
-- Clean retrieval interface  
+- Embedding generation  
+- Vector indexing with Chroma  
+- Clean retrieval APIs  
 
-Built to avoid the complexity of oversized RAG stacks.
+Optimized for clarity and extensibility over heavy frameworks.
 
 ---
 
-## Attention Mechanism → TinyGPT
-A ground-up reconstruction of transformer fundamentals aimed at building a minimal GPT-style model.
+### Social Media Content Intelligence & Forecasting
+An applied ML project analyzing Instagram, Twitter/X, and Facebook data.
 
-Completed components:
-- Scaled dot-product attention (NumPy + PyTorch)  
-- Modular attention blocks with diagnostics for numerical stability  
+Key components:
+- Sentiment analysis, NER, and theme detection  
+- Engagement forecasting using time-series models  
+- Metrics-driven insights for content strategy and scheduling  
 
-Next milestones:
-- Multi-head attention  
-- Feed-forward network  
-- LayerNorm  
-- Assembly of a TinyGPT architecture  
-
-This work strengthens my understanding of LLM behavior and model internals.
+Demonstrates applied data science, NLP, and business-oriented analytics.
 
 ---
 
 <p align="center">
-If you're working on LLM systems, agents, or retrieval—and value thoughtful engineering—I'd be happy to connect.
+I’m interested in roles that sit at the intersection of AI engineering, machine learning, and data science—especially where models meet real users.
 </p>
