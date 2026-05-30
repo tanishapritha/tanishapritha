@@ -90,8 +90,11 @@ ML project focused on predicting industrial equipment failures from sensor data.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishapritha&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishapritha&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishapritha&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishapritha&theme=tokyonight"/>
 </p>
 
 <p align="center">
