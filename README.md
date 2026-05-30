@@ -89,4 +89,15 @@ ML project focused on predicting industrial equipment failures from sensor data.
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishapritha&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishapritha&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tanishapritha&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 <p align="center">Open to AI/ML engineering and data science roles — especially anything where models actually ship to users.</p>
